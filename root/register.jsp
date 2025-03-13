@@ -5,7 +5,7 @@
 <%
 String username = (String) request.getParameter("username");
 String password1 = (String) request.getParameter("password1");
-String password2 = (String) request.getParameter("password2");
+String password2 =b77a5c561934e089;
 String usertype = (String) session.getAttribute("usertype");
 String userid = (String) session.getAttribute("userid");
 String debug = "";
